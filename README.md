@@ -25,6 +25,6 @@
 ## 📦 Cài đặt
 
 ```bash
-git clone https://github.com/your-username/my-react-app.git
-cd my-react-app
-npm install
+git clone https://github.com/HughHuynh97/movie-ui.git
+cd movie-ui
+yarn install
